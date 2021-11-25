@@ -2,13 +2,14 @@
 Author: Mengjie Zheng
 email: Zhengmengjie18@mails.ucas.ac.cn
 Date: 2021-11-16 22:21:10
-LastEditTime: 2021-11-16 23:03:15
+LastEditTime: 2021-11-22 14:26:31
 LastEditors: Mengjie Zheng
 Description: 
  # 绘制俯冲带地震分布
  # 参考：https://gmt-china.org/example/ex026/
 FilePath: \PygmtDemo\Demo1\plot.py
 '''
+
 
 import os
 import pygmt
